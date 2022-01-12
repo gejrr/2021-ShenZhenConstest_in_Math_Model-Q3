@@ -11,7 +11,10 @@
   <p>Environment:<br>
   Python v3.7; Tensorflow v2.1; Keras v2.6; numpy v1.21; pygame v2.0.1</p>
 <p>gamePacked.py: Consist of the simple game running at either mode: mannual or AI mode. <br>
-  Training model: CNN</p>
+  Training model: CNN, a Customized Alex-like Net<br>
+  Activation function: relu<br>
+  Optimizer: Adam <br>
+  Loss function: alternative</p>
 <p>Controls: <br>
 # 用方向键控制羊的移动，↑键沿直径前进，←键逆时针移动，→键顺时针移动。<br>
 # 按空格键在人工模式与AI模式间切换。<br>

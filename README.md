@@ -8,8 +8,8 @@
 <p>3. 假设羊理解自己的能力、限制和躲避犬围堵而逃逸目标，但不具备基于运动学的最优化决策知识，假设2中羊可以逃逸的条件被满足，给出一种机器学习方法，使得羊通过学习训练后实现逃逸；</p>
 <h3>程序描述</h3>
 <div>
-  <p>Environment:</p>
-  <p>Python v3.7; Tensorflow v2.1; Keras v2.6; numpy v1.21; pygame v2.0.1</p>
+  <p>Environment:<br>
+  Python v3.7; Tensorflow v2.1; Keras v2.6; numpy v1.21; pygame v2.0.1</p>
 <p>gamePacked.py: Consist of the simple game running at either mode: mannual or AI mode. <br>
   Training model: CNN</p>
 <p>Controls: <br>

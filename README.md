@@ -10,9 +10,11 @@
 <div>
   <p>Environment:</p>
   <p>Python v3.7; Tensorflow v2.1; Keras v2.6; numpy v1.21; pygame v2.0.1</p>
-<p>gamePacked.py: Consist of the simple game running at either mode: mannual or AI mode. </p>
-<p>Controls: </p>
-  <p># 操作方法：</p>
-<p># 用方向键控制羊的移动，↑键沿直径前进，←键逆时针移动，→键顺时针移动。</p>
-<p># 按空格键在人工模式与AI模式间切换。</p>
-<p># 按ESC退出。</p>
+<p>gamePacked.py: Consist of the simple game running at either mode: mannual or AI mode. <br>
+  Training model: CNN</p>
+<p>Controls: <br>
+# 用方向键控制羊的移动，↑键沿直径前进，←键逆时针移动，→键顺时针移动。<br>
+# 按空格键在人工模式与AI模式间切换。<br>
+# 按ESC退出。</p>
+<h3>补充说明</h3>
+  <p>此题系平时练习，完善度不高，深度学习的效果也一般。在大量训练后，“羊”只学会了“最快速地去世”以提高分数（但仍是负的）；即使读取人工操作的数据加以训练，也会因为一次失败的模仿逐渐走偏，回到原路。期待指点。</p>
